@@ -23,3 +23,33 @@ Everything else could be pretty much the same.
 
 
 Note: This project does not implement adequate handling of errors.
+
+Part 2
+
+Q21. It is because in the source code of the class NumberDisplay, the value is set to 0.
+
+Q22. setTime changes the value in the field displayString and the timeTick increments it by 1 is the minutes.
+
+Q23. I would have to increment it 60 times, since the limit for the NumberDisplay(minutes) is 60, which rolls
+     over to 0 and increments the NumberDisplay(hours) by 1.
+
+Q24. NumberDisplay digit = new NumberDisplay(10); 
+
+Q25. Rectangle window = new Rectangle(int height, int width)
+{
+    window.setValue(height);
+    window.setValue(widht);
+    
+}
+
+Q26. The second constructor creates a new ClockDisplay where you can enter a custom value for hours and minutes,
+     which will then start at that time.
+     
+Q27. similarities: - same constructor header names
+                   - same assignments
+                   - access modifier
+     
+     difference: The second constructor has parameters, which is why is doesn't have updateDisplay, and instead it has 
+                 setTime(hour, minute); because it is a setter.
+                 
+Q28. 
