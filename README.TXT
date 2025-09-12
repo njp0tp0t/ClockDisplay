@@ -52,4 +52,36 @@ Q27. similarities: - same constructor header names
      difference: The second constructor has parameters, which is why is doesn't have updateDisplay, and instead it has 
                  setTime(hour, minute); because it is a setter.
                  
-Q28. 
+Q28. p1.print("filename1", true);
+     p1.print("filename2", false);
+     
+     int delay = p1.getStatus(5);
+     int delay = p1.getStatus(10);
+     
+Q29. roof = NewTriangle();
+     roof.changeSize(60,180)
+     roof.moveHorizontal(20);
+     roof.moveVertical(-60); 
+     roof.makeVisible();
+     roof.changeColor("black");
+     roof.changeColor("green");\
+     
+Q30. roof.changeSize(60, 180);
+     roof.moveHorizontal(20);
+     roof.moveVertical(-60);
+     roof.makeVisible();
+     
+Q31. No
+
+Q32. 8 % 3 = 2
+
+Q33. if the negative number is on the left hand, the result will be a negative number.
+     if the negative number is on the right hand, the result will be a positive number.
+     if both numbers are negative, the result will be a negative number.
+     
+Q34. All whole numbers
+
+Q35. All whole numbers
+
+Q36. 
+          

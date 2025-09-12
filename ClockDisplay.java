@@ -38,7 +38,7 @@ public class ClockDisplay
     {
         hours = new NumberDisplay(24);
         minutes = new NumberDisplay(60);
-         
+        setTime(hour, minute);
     }
 
     /**
