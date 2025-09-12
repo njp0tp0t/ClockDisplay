@@ -83,5 +83,5 @@ Q34. All whole numbers
 
 Q35. All whole numbers
 
-Q36. 
+Q36 and Q37: 
           
