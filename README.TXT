@@ -84,4 +84,8 @@ Q34. All whole numbers
 Q35. All whole numbers
 
 Q36 and Q37: 
+
+Q52. Yes it does give the same results as the previous version.
+
+
           
